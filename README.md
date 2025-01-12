@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/shivamparihari](https://github.com/shivamparihari)
 
-- 💬 Ask me about **c ,c++ ,html ,css ,javascript**
+- 💬 Ask me about **c | c++ | html | css | javascript**
 
 - 📫 How to reach me **pariharishivam59@gmail.com**
 
